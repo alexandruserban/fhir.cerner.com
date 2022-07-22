@@ -10,7 +10,7 @@ layout: smart
 
 ## General ##
 
-### Introduction ###
+### Introduction
 The SMART<sup>®</sup> (Substitutable Medical Apps and Reusable Technology) platform defines a specification for an electronic health record (EHR) to safely and securely open other applications with context. These SMART applications are commonly web applications but may also be native mobile applications and that use HL7® FHIR® [standard](https://www.hl7.org/fhir/) to read and write data from the EHR. With SMART, Cerner can embed a SMART app in the EHR. Cerner believes that SMART applications will be a major user of FHIR resources. We will also support FHIR access through mobile SMART applications, as those specifications emerge from the SMART [web site](http://smartplatforms.org/).
 
 ### SaaS Model ###
